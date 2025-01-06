@@ -1,4 +1,4 @@
-# 쉼표는 있어도, 마침표는 없는
+# 쉼표는 있어도, 마침표는 없는!
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zz262zz)](https://solved.ac/zz262zz)
 
