@@ -1,11 +1,5 @@
 # 👋 안녕하세요, 이준익입니다!
 
-🎸 꿈을 코드로 짓고, 음악으로 숨 쉬는 개발자입니다.
-
-- ⚙️ 기술: Django, Vue, React, TypeScript, Kotlin, Kubernetes, WebRTC, 오디오 프로그래밍
-- 🎶 취미: 기타 🎸, 노래 🎤, 축구 ⚽, 루미큐브 🎲
-- 🚀 좌우명: Grow, Create, Inspire
-
 **세상을 움직이는 것을 만듭니다.**
 
 
