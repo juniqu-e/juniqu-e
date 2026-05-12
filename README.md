@@ -1,5 +1,5 @@
-<!-- HERO: layered artistic header — blur mesh shape with deep 3-stop gradient -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1E3A5F,50:5B86E5,100:36D1DC&height=200&section=header&text=Juniqu_e&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn" alt="Juniqu_e profile header" />
+<!-- HERO: clean cool gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A5F,100:36D1DC&height=190&section=header&text=%EC%9D%B4%EC%A4%80%EC%9D%B5%20DevOps%20%2F%20Platform%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="Lee Junik DevOps Platform Engineer profile header" />
 
 <div align="center">
 
@@ -13,7 +13,7 @@
           <br />
           <br />
           <a href="https://github.com/juniqu-e">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=400&color=36D1DC&background=0D1117&multiline=true&repeat=false&width=760&height=190&lines=try+%7B;++code()%3B;%7D+catch+(people)+%7B;++communicate()%3B;++growTogether()%3B;%7D+finally+%7B;++shipReliableService()%3B;%7D" alt="Typing try catch finally code inside editor" />
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=550&pause=120&color=36D1DC&background=0D1117&multiline=true&repeat=false&width=820&height=280&separator=%7C&lines=try+%7B%7C%C2%A0%C2%A0%C2%A0%C2%A0code()%3B%7C%7D+catch+(people)+%7B%7C%C2%A0%C2%A0%C2%A0%C2%A0communicate()%3B%7C%C2%A0%C2%A0%C2%A0%C2%A0growTogether()%3B%7C%7D+finally+%7B%7C%C2%A0%C2%A0%C2%A0%C2%A0shipReliableService()%3B%7C%7D" alt="Typing try catch finally code inside editor" />
           </a>
         </div>
       </td>
@@ -232,17 +232,7 @@ PADING에서는 웹 기반 IDE 환경에서 사용자가 코드 작성 이후 �
 | Certification | 정보처리기사(진행중) |
 | Education | SSAFY 12기 Python 트랙 수료 |
 
-
 <br />
 
-<div align="center">
-
-  <h3>Try the code, Catch the people, Finally make it reliable.</h3>
-  <sub><em>Building reliable workflows for developers, teams, and services.</em></sub>
-
-</div>
-
-<br />
-
-<!-- FOOTER: warm muted reverse gradient (plum → dusty rose → sand) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F7BB5,50:B89B95,100:D4A574&height=140&section=footer" alt="footer" />
+<!-- FOOTER: clean cool gradient footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,55:1E3A5F,100:0D1117&height=150&section=footer&text=Try%20the%20code%2C%20Catch%20the%20people%2C%20Finally%20make%20it%20reliable.&fontSize=24&fontColor=ffffff&fontAlignY=64&desc=Building%20reliable%20workflows%20for%20developers%2C%20teams%2C%20and%20services.&descSize=14&descAlignY=82&descAlign=50" alt="Try the code, Catch the people, Finally make it reliable footer" />
