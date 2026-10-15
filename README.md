@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://wnsdlr.com"><img src="assets/banner.svg" alt="lee junik — infrastructure engineer" width="100%"></a>
+  <a href="https://leejunik.com"><img src="assets/banner.svg" alt="lee junik — infrastructure engineer" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://wnsdlr.com"><b>wnsdlr.com</b></a> ·
+  <a href="https://leejunik.com"><b>leejunik.com</b></a> ·
   <a href="mailto:zz262zzx@gmail.com">zz262zzx@gmail.com</a> ·
   <a href="https://velog.io/@juniqu_e">velog</a>
 </p>
@@ -29,7 +29,7 @@
 | **홈서버 인프라** | 리눅스 서버 1대 위에 컨테이너로 서비스를 올리고, 포트포워딩 없이 Cloudflare Tunnel로 공개 | 컨테이너 25 · 도메인 20+ · 인바운드 포트 0 |
 | **[ccna.wnsdlr.com](https://ccna.wnsdlr.com)** | 시험 12일 전에 만들어 동기들과 함께 쓴 CCNA 문제은행 | 실사용자 22명 · 풀이 61,328 · 5xx 0.02% |
 | **AI 지식관리 워크스테이션** | 사람과 AI가 같은 Obsidian 볼트를 동시에 편집해도 깨지지 않는 기록 시스템 | 강의노트 50+ · 개념 위키 165 · 동기화 실패 0 |
-| **[wnsdlr.com](https://wnsdlr.com)** · [repo](https://github.com/juniqu-e/portfolio) | 이 포트폴리오. push 하면 GitHub Actions → GHCR → Watchtower로 홈서버에 배포 | |
+| **[leejunik.com](https://leejunik.com)** · [repo](https://github.com/juniqu-e/portfolio) | 이 포트폴리오. push 하면 GitHub Actions → GHCR → Watchtower로 홈서버에 배포 | |
 
 <br>
 
